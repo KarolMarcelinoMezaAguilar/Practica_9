@@ -1,8 +1,23 @@
 ¿Qué es un middleware?
+Software que proporciona servicios y capacidades comunes a las aplicaciones fuera de lo que ofrece el sistema operativo.
+
 ¿Cuál es el significado del término “MEAN stack” ?
+El "MEAN stack" es un framework basado en JavaScript para desarrollar aplicaciones web. MEAN lleva el nombre de MongoDB, Express, Angular y Node, las cuatro tecnologías clave que componen las capas de la pila. MongoDB - base de datos de documentos.
+
 ¿Cuáles son las características/funcionalidades que Express ofrece como middleware?
+Cambiar solicitudes, objetos de respuesta y también puede finalizar el ciclo de respuesta. También le da acceso al objeto "response" ("req", "res").
+
 ¿Qué es una ruta en express?
+Es un servicio de Azure que le permite crear conexiones privadas entre los centros de datos de Microsoft y la infraestructura que se encuentra en sus instalaciones o en una instalación de colocación.
+
 ¿Qué es un “route handler” en express y para qué se utiliza?
+Es un código que busca una solicitud de una URL entrante específica como /login y, a menudo, un verbo HTTP específico como POST y tiene un código específico para manejar esa URL y verbo precisos
+
 ¿Cuáles son los 2 parámetros necesarios para crear una ruta para el método GET con express, ejemplo: app.get()?
+
+
 ¿Qué es lo que hace la instrucción res.send?
+Establece el tipo de contenido a texto/Html (lo que significa que el cliente ahora lo tratará como texto), luego devuelve la respuesta al cliente.
+
 ¿Cuál es el motivo por el que express es tan popular?
+Ya que proporciona una amplia gama de funciones para crear aplicaciones web de una sola página, de varias páginas e híbridas.
